@@ -321,9 +321,7 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="max-w-xl mb-16">
             <span className="section-divider mb-6" />
-            <h2 className="font-display text-4xl md:text-5xl font-semibold text-gray-900 mb-4">
-              Опыт и достижения
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-semibold text-gray-900 mb-4">Опыт </h2>
             <p className="font-body text-gray-500 text-base">
               Путь от студента-юриста до признанного специалиста.
             </p>
